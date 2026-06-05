@@ -70,6 +70,8 @@ Kenya Fiscal Intelligence builds the full analytical picture at zero cost using 
 
 ## 🌐 Live Dashboard
 
+**Live:** [https://kenya-fiscal-intelligence.streamlit.app](https://kenya-fiscal-intelligence.streamlit.app)
+
 ### Run Locally
 
 ```bash
